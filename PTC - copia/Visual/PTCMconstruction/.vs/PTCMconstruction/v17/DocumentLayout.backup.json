@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|c:\\users\\ni\u00F1os\\desktop\\ptcmconstruccion 6\\ptc - copia\\visual\\ptcmconstruction\\vistas\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|c:\\users\\ni\u00F1os\\desktop\\ptcmconstruccion 6\\ptc - copia\\visual\\ptcmconstruction\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|c:\\users\\ni\u00F1os\\desktop\\ptcmconstruccion 6\\ptc - copia\\visual\\ptcmconstruction\\vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|solutionrelative:Vistas\\Formularios\\frmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\SeleccionEmpleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}|Vistas\\Vistas.csproj|solutionrelative:Vistas\\Formularios\\SeleccionEmpleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:59:05.781Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmClientes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmClientes.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmClientes.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:57:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:56:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:00:47.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeleccionEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\SeleccionEmpleado.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\SeleccionEmpleado.cs",
+              "ToolTip": "C:\\Users\\Ni\u00F1os\\Desktop\\PTCMconstruccion 6\\PTC - copia\\Visual\\PTCMconstruction\\Vistas\\Formularios\\SeleccionEmpleado.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\SeleccionEmpleado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:57:05.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

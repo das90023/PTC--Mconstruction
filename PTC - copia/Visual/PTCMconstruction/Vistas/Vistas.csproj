@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{589D90D6-D0F8-496C-B6B8-B81A2F3F8CB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controles\RedondearBoton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCarga0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCarga0.Designer.cs">
+      <DependentUpon>frmCarga0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmCargaE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCargaE.Designer.cs">
+      <DependentUpon>frmCargaE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmClientes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmClientes2.Designer.cs">
+      <DependentUpon>frmClientes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmInventario.Designer.cs">
+      <DependentUpon>frmInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmLogin.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Formularios\frmPCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmPCarga.Designer.cs">
+      <DependentUpon>frmPCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\SeleccionAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\SeleccionAdmin.Designer.cs">
+      <DependentUpon>SeleccionAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\SeleccionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\SeleccionEmpleado.Designer.cs">
+      <DependentUpon>SeleccionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\frmCargaE.resx">
+      <DependentUpon>frmCargaE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmClientes2.resx">
+      <DependentUpon>frmClientes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmInventario.resx">
+      <DependentUpon>frmInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmPCarga.resx">
+      <DependentUpon>frmPCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\SeleccionAdmin.resx">
+      <DependentUpon>SeleccionAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\SeleccionEmpleado.resx">
+      <DependentUpon>SeleccionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{153c0046-a8bd-4b26-8430-3fb43d33d747}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconsax-user-remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boton.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Index.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Index1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoxBorder.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-administrador-del-hombre-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-administrador-del-hombre-100 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-empleado-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-casa-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ColorGris1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeleccionAdmin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoxBorder2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clientes-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoxBorder21.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoxBorder22.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-inventario-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-empleados-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ingresos-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeleccionAdmin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SingOutButton.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-revertir-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clientes-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-inventario-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Index2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonSalir.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop - 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DesktopClientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DesktopClientes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonActualizar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonEliminar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 181537.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 181618.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 181702.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 181806.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rounded rectangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 182216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 182339.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 182436.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 182821.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 182857.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 185212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2025-08-11 1852121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoBotonAñadir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoBotonAñadir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonAñadir.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonAñadir1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CargaAdmon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CargaEmpleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

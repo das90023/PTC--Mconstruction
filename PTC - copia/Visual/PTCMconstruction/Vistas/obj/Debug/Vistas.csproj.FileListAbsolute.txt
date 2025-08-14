@@ -1,0 +1,119 @@
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.Inicio.resources
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.InicioSesionA.resources
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.btnInicioSesionE.resources
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.Inicio.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.InicioSesionA.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.btnInicioSesionE.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionEmpleado.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes2.resources
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes2.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.Inicio.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.InicioSesionA.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.btnInicioSesionE.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionEmpleado.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes2.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.Inicio.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.InicioSesionA.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.btnInicioSesionE.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionEmpleado.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes2.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionEmpleado.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmCargaE.resources
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmPCarga.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.exe
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.dll
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Modelo.pdb
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmCargaE.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmClientes2.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmLogin.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.frmPCarga.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionAdmin.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Formularios.SeleccionEmpleado.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.exe
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Formularios\frmLogin.resx
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Formularios\frmLogin.cs
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Vistas\bin\Debug\Formularios\frmLogin.Designer.cs

@@ -1,0 +1,54 @@
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\hesse\Desktop\PTC\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\usuario\Desktop\PTC - copia 1\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Pictures\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.dll
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.dll
+C:\Users\Niños\Desktop\PTCMconstruccion 6\PTC - copia\Visual\PTCMconstruction\Modelo\obj\Debug\Modelo.pdb
